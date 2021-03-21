@@ -1,13 +1,13 @@
 # filemaker-addons-reception-for-email
 
-![1024x1024](https://user-images.githubusercontent.com/8992239/111493396-da1f9a80-8780-11eb-83a4-e0fdf65cde22.png)
+![icon-email](https://user-images.githubusercontent.com/8992239/111908888-47437080-8a9e-11eb-8ea5-f1fd8fcc1d0f.png)
 
 # Support site > How to use / Reception for eMail
 https://fm-add-ons.blogspot.com/p/for-email.html
 
 # Overview
 
-![001](https://user-images.githubusercontent.com/8992239/111644426-2df2b800-8843-11eb-80f4-6739cd0d5bf8.png)
+![R4E](https://user-images.githubusercontent.com/8992239/111908929-73f78800-8a9e-11eb-9a4f-db5d4b30d12d.png)
 
 This add-on provides the ability to collect information on a FileMaker screen and send the data to other services. With a few button presses (or calls from other scripts), the user can send data to a given destination or service. Users can post information from various layouts in FileMaker to a common receptionist.
 
@@ -19,7 +19,7 @@ The basic image of this workflow is that of a general receptionist or inquiry ha
 
 # Download
 
-https://github.com/takeshi0206/filemaker-addons-reception-for-redmine/releases
+https://github.com/takeshi0206/filemaker-addons-reception-for-email/releases
 
 # Administrator id and password
 
